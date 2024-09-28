@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<agents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.agents file:///D:/repos/GitHub/bioagentsSchema/versions/bioagents-2.0.0/bioagents-2.0.0.xsd" xmlns="http://bio.agents">
+<agents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bio.agents file:///D:/repos/GitHub/bioagents schema/versions/bioagents-2.0.0/bioagents-2.0.0.xsd" xmlns="http://bio.agents">
 	<agent>
 		<summary>
 			<name>GO Consortium Enrichment Agent</name>

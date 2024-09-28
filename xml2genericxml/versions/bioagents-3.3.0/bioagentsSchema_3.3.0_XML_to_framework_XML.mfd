@@ -13,7 +13,7 @@
 						<root scrollposition="1">
 							<header>
 								<namespaces>
-									<namespace uid="bioagentsSchema"/>
+									<namespace uid="bioagents schema"/>
 									<namespace uid="http://www.altova.com/mapforce"/>
 								</namespaces>
 							</header>
@@ -120,7 +120,7 @@
 								</entry>
 							</entry>
 						</root>
-						<document schema="..\..\..\genericxml2xml\versions\bioagents-3.3.0\bioagents_3.3.0.xsd" inputinstance="input.xml" instanceroot="{bioagentsSchema}agents"/>
+						<document schema="..\..\..\genericxml2xml\versions\bioagents-3.3.0\bioagents_3.3.0.xsd" inputinstance="input.xml" instanceroot="{bioagents schema}agents"/>
 						<wsdl/>
 					</data>
 				</component>

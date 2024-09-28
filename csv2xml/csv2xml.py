@@ -32,7 +32,7 @@ def read_cvsfile(filename):
 
 def make_agentID(name):
     # There is a bunch af rules to this conversion...
-    # See: https://github.com/bio-agents/bioagentsSchema/blob/master/versions/bioagents-2.0.0/bioagents-2.0.0.xsd
+    # See: https://github.com/bio-agents/bioagents schema/blob/master/versions/bioagents-2.0.0/bioagents-2.0.0.xsd
     # Search for agentID and bioagentsIdType
 
     # We have a list on hand-converted name->agentID. These take precedence

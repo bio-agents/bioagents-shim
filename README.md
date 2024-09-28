@@ -1,2 +1,2 @@
 # bioagentsShim
-Adapters for converting [bioagentsSchema](https://github.com/bio-agents/bioagentsSchema)-compatible file formats.
+Adapters for converting [bioagents schema](https://github.com/bio-agents/bioagents schema)-compatible file formats.

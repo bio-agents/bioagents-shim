@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<agents xmlns="bioagentsSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="bioagentsSchema file:///E:/repos/GitHub/bioagentsShim/xml2genericxml-singleagent/versions/bioagents-3.3.0/bioagents_3.3.0.xsd">
+<agents xmlns="bioagents schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="bioagents schema file:///E:/repos/GitHub/bioagentsShim/xml2genericxml-singleagent/versions/bioagents-3.3.0/bioagents_3.3.0.xsd">
 	<agent>
 		<name>String</name>
 		<description>String</description>

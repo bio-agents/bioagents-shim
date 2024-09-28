@@ -181,7 +181,7 @@
 						<root scrollposition="1">
 							<header>
 								<namespaces>
-									<namespace uid="bioagentsSchema"/>
+									<namespace uid="bioagents schema"/>
 									<namespace uid="http://www.altova.com/mapforce"/>
 								</namespaces>
 							</header>
@@ -288,7 +288,7 @@
 								</entry>
 							</entry>
 						</root>
-						<document schema="bioagents_3.3.0.xsd" outputinstance="output.xml" instanceroot="{bioagentsSchema}agents"/>
+						<document schema="bioagents_3.3.0.xsd" outputinstance="output.xml" instanceroot="{bioagents schema}agents"/>
 						<wsdl/>
 					</data>
 				</component>

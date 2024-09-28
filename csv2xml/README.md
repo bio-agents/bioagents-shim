@@ -1,5 +1,5 @@
 # csv2xml
-Adapter for converting agents annotation in csv format (see [example](https://github.com/bio-agents/bioagentsShim/csv2xml/example_input.csv)) to [bioagentsSchema](https://github.com/bio-agents/bioagentsSchema/) 2.0.0 XML.
+Adapter for converting agents annotation in csv format (see [example](https://github.com/bio-agents/bioagentsShim/csv2xml/example_input.csv)) to [bioagents schema](https://github.com/bio-agents/bioagents schema/) 2.0.0 XML.
 
 File | Description
 ---- | -----------

@@ -11,8 +11,8 @@ http://www.altova.com/mapforce
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions" exclude-result-prefixes="xs fn">
 	<xsl:output method="xml" encoding="UTF-8" byte-order-mark="no" indent="yes"/>
 	<xsl:template match="/">
-		<agents xmlns="bioagentsSchema">
-			<xsl:attribute name="xsi:schemaLocation" namespace="http://www.w3.org/2001/XMLSchema-instance" select="'bioagentsSchema file:///E:/repos/GitHub/bioagentsShim/genericxml2xml/versions/bioagents-3.3.0/bioagents_3.3.0.xsd'"/>
+		<agents xmlns="bioagents schema">
+			<xsl:attribute name="xsi:schemaLocation" namespace="http://www.w3.org/2001/XMLSchema-instance" select="'bioagents schema file:///E:/repos/GitHub/bioagentsShim/genericxml2xml/versions/bioagents-3.3.0/bioagents_3.3.0.xsd'"/>
 			<xsl:for-each select="*:root[fn:namespace-uri() eq '']/*:list[fn:namespace-uri() eq '']/*:list-item[fn:namespace-uri() eq '']">
 				<agent>
 					<name>
